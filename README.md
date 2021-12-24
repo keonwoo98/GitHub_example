@@ -10,6 +10,8 @@
 
 > [후기](#후기)
 
+> [구현 모습](#구현-모습)
+
 &nbsp;
 
 ## **강의 정보**
@@ -47,3 +49,11 @@
 이 정도면 코딩을 처음 맛정도로는 충분했다.
 HTML, CSS 외에도 VScode 등의 IDE 활용법, Git/Github 등의 실무에서 가장 기본이 되는 내용들도 학습할 수 있는 좋은 기회였다.
 단지 문법과 flow를 익히고 홈페이지 구현도 거의 클론코딩이었지만 코딩에 재미를 붙일 수 있는 유익한 시간이었다.
+
+&nbsp;
+
+## **구현 모습**
+
+<img width="800" alt="1" src="https://user-images.githubusercontent.com/76714659/147311512-db31aa9e-351d-484d-80fa-67cf93862b22.png">
+<img width="800" alt="2" src="https://user-images.githubusercontent.com/76714659/147311540-5372c5f3-b7ac-4b84-b221-a78d6ed3ecd0.png">
+<img width="800" alt="3" src="https://user-images.githubusercontent.com/76714659/147311559-6c75903b-756a-4cbf-8d93-8594c0653a10.png">
